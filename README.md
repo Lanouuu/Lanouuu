@@ -14,15 +14,15 @@
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="10">
+<table border="0" cellspacing="0" cellpadding="10" style="border-collapse: collapse; border: none;">
   <tr>
-    <td align="center" valign="middle">
-      <img src="assets/shell.svg" alt="Waveform" width="100">
+    <td style="border: none;" valign="middle">
+      <img src="assets/shell.svg" width="100">
     </td>
 
-  <td align="center" valign="middle">
+  <td style="border: none;" valign="middle">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=1600&pause=1850&color=4BC0C8&center=false&vCenter=true&width=700&lines=Alan+De+Franceschi;42+Paris++-++Student;Looking+for+an+internship+😇" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=1600&pause=1850&color=4BC0C8&center=false&vCenter=true&width=700&lines=Alan+De+Franceschi;42+Paris++-++Student;Looking+for+an+internship+😇">
     </a>
   </td>
   </tr>

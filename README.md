@@ -14,7 +14,6 @@
 
 <p align="center">
   <img src="assets/shell.svg" width="100" style="vertical-align:middle;">
-  &nbsp;&nbsp;&nbsp;
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=1600&pause=1850&color=4BC0C8&center=false&vCenter=true&width=700&lines=Alan+De+Franceschi;42+Paris++-++Student;Looking+for+an+internship+😇" style="vertical-align:middle;">
 </p>
 

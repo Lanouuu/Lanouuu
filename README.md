@@ -12,13 +12,21 @@
 <!--                                MESSAGE                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div style="display:flex; align-items:center; gap:20px;">
+<div align="center">
 
-  <p align="left">
-    <img src="assets/shell.svg" alt="Waveform" width="100">
-  </p>
+<table border="0" cellspacing="0" cellpadding="10">
+  <tr>
+    <td align="center" valign="middle">
+      <img src="assets/shell.svg" alt="Waveform" width="100">
+    </td>
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=1600&pause=1850&color=4BC0C8&center=false&vCenter=true&width=700&lines=Alan+De+Franceschi;42+Paris++-++Student;Looking+for+an+internship+😇" alt="Typing SVG" /></a>
+  <td align="center" valign="middle">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=1600&pause=1850&color=4BC0C8&center=false&vCenter=true&width=700&lines=Alan+De+Franceschi;42+Paris++-++Student;Looking+for+an+internship+😇" alt="Typing SVG" />
+    </a>
+  </td>
+  </tr>
+</table>
 
 </div>
 
@@ -30,7 +38,7 @@
 
 <div align="center">
 
-<table cellspacing="20" cellpadding="20">
+<table border="0" cellspacing="20" cellpadding="20">
   <tr>
     <td align="center" style="padding: 20px;">
       <a href="https://www.linkedin.com/in/alan-de-franceschi/">
@@ -107,7 +115,7 @@
 
 <div align="center">
   
-  <table>
+  <table border="0">
 
   <tr>
   <td width="50%" valign="top">

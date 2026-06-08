@@ -12,23 +12,11 @@
 <!--                                MESSAGE                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-<table border="0" cellspacing="0" cellpadding="10">
-  <tr>
-    <td style="border: none" align="center" valign="middle">
-      <img src="assets/shell.svg" alt="Waveform" width="100">
-    </td>
-
-  <td style="border: none" align="center" valign="middle">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=1600&pause=1850&color=4BC0C8&center=false&vCenter=true&width=700&lines=Alan+De+Franceschi;42+Paris++-++Student;Looking+for+an+internship+😇" alt="Typing SVG" />
-    </a>
-  </td>
-  </tr>
-</table>
-
-</div>
+<p align="center">
+  <img src="assets/shell.svg" width="100" style="vertical-align:middle;">
+  &nbsp;&nbsp;
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=1600&pause=1850&color=4BC0C8&center=false&vCenter=true&width=700&lines=Alan+De+Franceschi;42+Paris++-++Student;Looking+for+an+internship+😇" style="vertical-align:middle;">
+</p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                                ME                               -->

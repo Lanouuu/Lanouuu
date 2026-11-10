@@ -132,20 +132,6 @@
   </td>
   <td width="50%" valign="top">
   
-  ### [🚩 Snowcrash](https://github.com/Lanouuu/snow-crash)
-  
-  [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-  [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
-  </br>
-  
-  <h3>
-  42 project | Cybersecurity branch
-  </h3>
-  Capture the flag with multiple levels on a pre-build sandbox
-  
-  </td>
-  <td width="50%" valign="top">
-  
   ### [💻  Minishell](https://github.com/Lanouuu/Minishell)
   
   [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)

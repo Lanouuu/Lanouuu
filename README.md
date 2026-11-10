@@ -112,6 +112,25 @@
 
   <tr>
   <td width="50%" valign="top">
+
+  ### [🚩 Inception of Things](https://github.com/Lanouuu/Inception_of_things)
+
+  [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+  [![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?logo=vagrant&logoColor=white)](#)
+  [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](#)
+  [![K3s](https://img.shields.io/badge/K3s-FFC61C?logo=k3s&logoColor=black)](#)
+  [![Argo CD](https://img.shields.io/badge/ArgoCD-EF7B4D?logo=argo&logoColor=white)](#)
+  [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#)  
+  </br>
+
+  <h3>
+  42 project | Systems, Networks & Cybersecurity branch
+  </h3>
+  Infrastructure project focused on Linux system administration, virtualisation, Kubernetes orchestration and GitOps deployment.
+
+  </br>
+  </td>
+  <td width="50%" valign="top">
   
   ### [🚩 Snowcrash](https://github.com/Lanouuu/snow-crash)
   

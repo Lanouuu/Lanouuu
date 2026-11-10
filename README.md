@@ -92,7 +92,7 @@
 
 **System & DevOps**
 
-[![Skills](https://skillicons.dev/icons?i=linux,apple,bash,docker,nginx&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=linux,apple,bash,docker,nginx,kubernetes&perline=8)](https://skillicons.dev)
 
 **Music**
 
